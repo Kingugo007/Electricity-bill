@@ -1,0 +1,6 @@
+@IRecharge.WalletAPI_HostAddress = http://localhost:5272
+
+GET {{IRecharge.WalletAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
